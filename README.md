@@ -1,13 +1,13 @@
 # Olá! Eu sou o Alisson Borges 👋
 
-🎯 Desenvolvedor em formação | Programador Python | Apaixonado por tecnologia
+🎯 Desenvolvedor em formação | Estudando Python | Apaixonado por tecnologia
 
 ## 🚀 Sobre mim
 
-Sou intermediário na programação e estou desenvolvendo cada vez mais minhas habilidades com Python.  
+Sou iniciante na programação e estou dando meus primeiros passos com Python.  
 Gosto de resolver problemas e estou construindo meus primeiros projetos para praticar e aprender mais todos os dias.
 
-Meu objetivo é conseguir uma oportunidade na área de tecnologia, mostrando minha evolução através de bons projetos.
+Meu objetivo é conseguir uma oportunidade na área de tecnologia, mostrando minha evolução através de projetos e estudos.
 
 ## 🛠️ Tecnologias que estou aprendendo
 
@@ -25,12 +25,10 @@ Uma calculadora básica com operações de soma, subtração, multiplicação e 
 Um jogo onde o usuário tenta adivinhar um número aleatório.  
 *Tecnologias: Python, lógica de programação*
 
-(➡ Você pode adicionar os links desses projetos aqui quando subir no GitHub)
-
 ## 📫 Como me encontrar
 
 - GitHub: [github.com/alissondevops1](https://github.com/alissondevops1)
-- E-mail: alisson.borges.contato@gmail.com
+- E-mail: **[coloque aqui o e-mail que quer divulgar]**
 
 ---
 
